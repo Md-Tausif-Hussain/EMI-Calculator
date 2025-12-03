@@ -47,10 +47,10 @@ n
 	​
 
 
-Where:
-P = Principal amount
-r = Monthly interest rate
-n = Total number of monthly installments
+Where:                            
+P = Principal amount                                    
+r = Monthly interest rate                                          
+n = Total number of monthly installments                                                   
 
 **Example Usage**                          
 When executed, the program prompts for:                                    

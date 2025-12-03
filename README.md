@@ -75,12 +75,12 @@ Tenure in years
 
 After receiving inputs, it displays the calculated EMI.
 
-Project Structure
-EMI-Calculator/
-│
-├── EMICalculator.java
-└── README.md
-
-License
+Project Structure                       
+EMI-Calculator/                                                   
+│                                                                                        
+├── EMICalculator.java                                         
+└── README.md                                                  
+                                    
+License                                     
 
 This project is open for learning and personal use.
